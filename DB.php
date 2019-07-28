@@ -9,7 +9,7 @@ function getDBConnection() {
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $db = "choicepdb";
+    $db = "choicedb";
 
 
 // Create connection
@@ -96,6 +96,7 @@ function setDelete($sql) {
 
 
 ?>
+
 
 
 
