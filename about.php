@@ -5,11 +5,10 @@ author: H.A.D.A. Perera
 <html lang="zxx">
 
 <head>
-	<title>Downy Shoes</title>
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Downy Shoes Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	
 	<script type="application/x-javascript">
 		addEventListener("load", function () {
 			setTimeout(hideURLbar, 0);
@@ -39,7 +38,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="wrapper_top_w3layouts">
 			<div class="header_agileits">
 				<div class="logo inner_page_log">
-					<h1><a class="navbar-brand" href="index.html"><span>Downy</span> <i>Shoes</i></a></h1>
+					
 				</div>
 				<div class="overlay overlay-contentpush">
 					<button type="button" class="overlay-close"><i class="fa fa-times" aria-hidden="true"></i></button>
@@ -109,7 +108,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/ab.jpg" alt=" " class="img-responsive">
 				</div>
 				<div class="col-md-6 news-right">
-					<h4>Welcome to our Downy Shoes</h4>
+					
 					<p class="sub_p">Etiam faucibus viverra libero vel efficitur. Ut semper nisl ut laoreet ultrices. Maecenas dictum arcu purus, sit amet
 						volutpat purus viverra sit amet. Quisque lacinia quam sed tortor interdum, malesuada congue nunc ornare. Cum sociis
 						In semper lorem eget tortor pulvinar ultricies.
@@ -230,7 +229,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- /Properties -->
 	<div class="mid_slider_w3lsagile">
 		<div class="col-md-3 mid_slider_text">
-			<h5>Some More Shoes</h5>
+			
 		</div>
 		<div class="col-md-9 mid_slider_info">
 			<div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -344,7 +343,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer_agileinfo_w3">
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
-				<h2><a href="index.html"><span>D</span>owny Shoes </a></h2>
+				
 				<p>Lorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
@@ -423,26 +422,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3 sign-gd flickr-post">
-						<h4>Flickr <span>Posts</span></h4>
-						<ul>
-							<li><a href="single.html"><img src="images/t1.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t2.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t3.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t4.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t1.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t2.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t3.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t2.jpg" alt=" " class="img-responsive" /></a></li>
-							<li><a href="single.html"><img src="images/t4.jpg" alt=" " class="img-responsive" /></a></li>
-						</ul>
-					</div>
+					
 					<div class="clearfix"></div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
 
-			<p class="copy-right-w3ls-agileits">&copy 2018 Downy Shoes. All rights reserved | Design by <a href="http://w3layouts.com/">w3layouts</a></p>
+			
 		</div>
 	</div>
 	</div>

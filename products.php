@@ -53,7 +53,7 @@ Author: H.A.D.A. Perera
 								<li><a href="products.php">Clothing</a> <span>(0)</span></li>
                                                                                                                                             </ul>
                                                 
-                                                                                                          <li><a href="products.html">E<b>Electronics</b></a> <span>(0)</span></li> 
+                                                                                                          <li><a href="products.html"><b>Electronics</b></a> <span>(0)</span></li> 
                                                                                                           
                                                                                                           <li><a href="products.html"><b>Health</b></a> <span>(0)</span></li> 
                                                                                                          
@@ -82,10 +82,10 @@ Author: H.A.D.A. Perera
                                                                                                          
                                                                                                          <li><a href="products.html"><b>Mens Wear</b></a> <span>(0)</span></li>
 							<ul>
-								<li><a href="products.html">Accessories</a> <span>(0)</span></li>
+								
 								<li><a href="products.html">Shirts</a> <span>(0)</span></li>
 								<li><a href="products.html">Trousers</a> <span>(0)</span></li>
-								<li><a href="products.html">Footware</a> <span>(0)</span></li>
+								
 								<li><a href="products.html">Suits</a> <span>(0)</span></li>
 								<li><a href="products.html">T-Shirts</a> <span>(0)</span></li>
 							</ul>
@@ -100,13 +100,11 @@ Author: H.A.D.A. Perera
 						
                                                                                                           <li><a href="products.html"><b>Womens Wear</b></a> <span>(0)</span></li>
 							<ul>
-								<li><a href="products.html">Accessories</a> <span>(0)</span></li>
+								
 								<li><a href="products.html">Blouse</a> <span>(0)</span></li>
 								<li><a href="products.html">Denim</a> <span>(0)</span></li>
 								<li><a href="products.html">Dresses</a> <span>(0)</span></li>
-								<li><a href="products.html">Footware</a> <span>(0)</span></li>
                                                                                                                                              <li><a href="products.html">Pants</a> <span>(0)</span></li>
-								<li><a href="products.html">Saree</a> <span>(0)</span></li>
 								<li><a href="products.html">Skirt</a> <span>(0)</span></li>
                                                                                                                                               <li><a href="products.html">T-Shirts</a> <span>(0)</span></li>
 							</ul>

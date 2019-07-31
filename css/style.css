@@ -1,12 +1,7 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 html, body{
     font-size: 100%;
-	background:	#fff;
+	background:	#Ffe6ff;
 	font-family: 'Open Sans', sans-serif;
 }
 p{
@@ -315,7 +310,7 @@ a.simpleCart_empty {
 /*-- //header --*/
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/ban.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -3837,3 +3832,13 @@ td.invert-image a img {
 		text-align: left;
 	}
 }
+
+
+
+
+
+
+
+
+
+

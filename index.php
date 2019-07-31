@@ -21,13 +21,13 @@ Author: H.A.D.A. Perera
 	<div class="banner">
 		<div class="container">
 			<div class="banner-info animated wow zoomIn" data-wow-delay=".5s">
-				<h3>Free Online Shopping</h3>
-				<h4>Up to <span>50% <i>Off/-</i></span></h4>
+				
 				<div class="wmuSlider example1">
 					<div class="wmuSliderWrapper">
 						<article style="position: absolute; width: 100%; opacity: 0;"> 
 							<div class="banner-wrap">
 								<div class="banner-info1">
+                                                                                                                                                              
 									<p>T-Shirts + Formal Pants + Jewellery + Cosmetics</p>
 								</div>
 							</div>
@@ -35,6 +35,7 @@ Author: H.A.D.A. Perera
 						<article style="position: absolute; width: 100%; opacity: 0;"> 
 							<div class="banner-wrap">
 								<div class="banner-info1">
+                                                                                                                                                                
 									<p>Toys + Furniture + Lighting + Watches</p>
 								</div>
 							</div>
@@ -42,6 +43,7 @@ Author: H.A.D.A. Perera
 						<article style="position: absolute; width: 100%; opacity: 0;"> 
 							<div class="banner-wrap">
 								<div class="banner-info1">
+                                                                                                                                                                          
 									<p>Tops + Books & Media + Sports</p>
 								</div>
 							</div>
@@ -114,8 +116,7 @@ Author: H.A.D.A. Perera
 	<div class="new-collections">
 		<div class="container">
 			<h3 class="animated wow zoomIn" data-wow-delay=".5s">New Collections</h3>
-			<p class="est animated wow zoomIn" data-wow-delay=".5s">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
-				deserunt mollit anim id est laborum.</p>
+			
 			<div class="new-collections-grids">
 				<div class="col-md-3 new-collections-grid">
 					<div class="new-collections-grid1 animated wow slideInUp" data-wow-delay=".5s">
@@ -409,7 +410,7 @@ Author: H.A.D.A. Perera
 		<div class="container">
 			<div class="collections-bottom-grids">
 				<div class="collections-bottom-grid animated wow slideInLeft" data-wow-delay=".5s">
-					<h3>45% Offer For <span>Women & Children's</span></h3>
+					<h3>45% Offer For <span>Women & Children's</span>At Christmas Season</h3>
 				</div>
 			</div>
 			<div class="newsletter animated wow slideInUp" data-wow-delay=".5s">

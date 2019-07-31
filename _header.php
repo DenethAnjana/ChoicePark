@@ -1,4 +1,10 @@
 <div class="header">
+    
+    
+    
+    
+    
+    
 		<div class="container">
 			<div class="header-grid">
 				<div class="header-grid-left animated wow slideInLeft" data-wow-delay=".5s">
@@ -16,6 +22,11 @@
 						<li><a href="#" class="g"></a></li>
 						<li><a href="#" class="instagram"></a></li>
 					</ul>
+                                    
+                                    
+                                    
+                                    
+                                    
 				</div>
 				<div class="clearfix"> </div>
 			</div>
